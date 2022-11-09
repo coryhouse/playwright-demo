@@ -2,6 +2,6 @@
 
 ```
 npm install
-npm run vite
+npm run dev
 npx playwright test (separate terminal)
 ```
