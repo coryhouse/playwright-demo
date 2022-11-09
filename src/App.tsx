@@ -23,7 +23,7 @@ function App() {
             setToken(token);
           }}
         >
-          Login
+          Log in
         </button>
       )}
     </div>
